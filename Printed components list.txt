@@ -1,0 +1,13 @@
+3D printed components: 
+
+1. Bottom Case with Tensioners
+2. Bridge for Small Motor
+3. Large Motor Bridge
+4. Middle Pulley
+5. Output Pulley
+6. Small Pulley at Middle Stage
+7. Small Pulley for Motors
+8. Top Case with Tensioners
+9. Front Bridge connecting two cases
+10. Upper hips
+11. Back Bridge connecting two cases
